@@ -1,4 +1,4 @@
-# WiFi-Based-Location-Service
+# WiFi Based Location Service
 
 Mobile Computing:
   + Login & Register
